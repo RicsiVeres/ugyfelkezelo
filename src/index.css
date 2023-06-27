@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#X {
+  color: red;
+  font-weight: 800;
+  size: 3rem;
+  padding: 0.5rem 1rem;
+  border: 1px solid red;
+  border-radius: 1rem;
+}
+#X:hover {
+  color: rgb(255, 255, 255);
+  background: red;
+  font-weight: 800;
+  size: 3rem;
+  padding: 0.5rem 1rem;
+  border: 1px solid red;
+  border-radius: 1rem;
+}
